@@ -7,7 +7,6 @@ namespace MyBusineesCard
         public Form1()
         {
             InitializeComponent();
-
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
