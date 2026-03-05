@@ -1,8 +1,10 @@
 # 1주차과제: 나만의디지털명함제작기-이름: 최율도(23017095)-핵심기능: 배경색랜덤변경, 깃허브연결
 ## 실행화면
 
-<img width="777" height="503" alt="image" src="https://github.com/user-attachments/assets/14229f10-8d58-4dd8-b131-a323881305c0" />
-<img width="804" height="513" alt="image" src="https://github.com/user-attachments/assets/53a6c98c-962a-4132-8ad7-75eb9135ebe8" />
+<img width="790" height="498" alt="image" src="https://github.com/user-attachments/assets/2ad37935-9b26-4462-9217-de5aa0b299f7" />
+<img width="816" height="511" alt="image" src="https://github.com/user-attachments/assets/5876c98f-a5dd-458e-b54a-5fcbd398f95e" />
+
+
 
 ## 구현시어려웠던점-
 깃허브 연결주소를 만들 떄 교수님이 알려준 힌트만으로 조금 어려웠지만 그래도 책과 영상 시청으로 파일 실행이 아닌 외부 주소와 연결하게 하는것으로
