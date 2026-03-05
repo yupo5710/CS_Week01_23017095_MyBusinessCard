@@ -71,7 +71,7 @@ namespace MyBusineesCard
 
         private void pictureBox2_MouseEnter(object sender, EventArgs e)
         {
-            pictureBox2.BorderStyle = BorderStyle.Fixed3D;
+            pictureBox2.BorderStyle = BorderStyle.FixedSingle;
         }
 
         private void pictureBox2_MouseLeave(object sender, EventArgs e)
