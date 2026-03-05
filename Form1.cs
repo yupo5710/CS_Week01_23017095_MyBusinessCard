@@ -65,7 +65,20 @@ namespace MyBusineesCard
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            pictureBox2.Image = Properties.Resources.profile2;
         }
+
+
+        private void pictureBox2_MouseEnter(object sender, EventArgs e)
+        {
+            pictureBox2.BorderStyle = BorderStyle.Fixed3D;
+        }
+
+        private void pictureBox2_MouseLeave(object sender, EventArgs e)
+        {
+            pictureBox2.BorderStyle = BorderStyle.None; // 원래 스타일로 복원
+        }
+
+
     }
 }

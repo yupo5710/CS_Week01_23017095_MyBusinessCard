@@ -49,6 +49,8 @@
             pictureBox2.TabIndex = 1;
             pictureBox2.TabStop = false;
             pictureBox2.Click += pictureBox2_Click;
+            pictureBox2.MouseEnter += pictureBox2_MouseEnter;
+            pictureBox2.MouseLeave += pictureBox2_MouseLeave;
             // 
             // textBox1
             // 
@@ -111,6 +113,7 @@
             button3.Size = new Size(150, 46);
             button3.TabIndex = 7;
             button3.Text = "사진 변경";
+            button3.TextImageRelation = TextImageRelation.TextBeforeImage;
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
